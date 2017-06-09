@@ -1,0 +1,17 @@
+
+.img-place img{
+    width:90%;
+    margin-bottom:20px;
+    margin-top: 15px;
+}
+footer {
+    padding:15px;
+}
+a {
+  text-decoration: none;
+  color: #D60570;
+  font-weight: 600;
+}
+a:hover, a:focus {
+    text-decoration: none;
+}
